@@ -1,0 +1,2 @@
+rootProject.name = "CloudCamera"
+include ':app'
